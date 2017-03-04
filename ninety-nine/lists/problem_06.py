@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Name:             problem_05.py
+# Name:             problem_06.py
 # Purpose:          List palindrome checker.
 # Author:           github.com/emilskeptic
 # Last modified:    2017-03-04
