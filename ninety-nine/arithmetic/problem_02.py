@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Name:             problem_01.py
+# Name:             problem_02.py
 # Purpose:          Find all prime divisors.
 # Author:           github.com/emilskeptic
 # Last modified:    2017-03-05
